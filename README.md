@@ -1,6 +1,6 @@
 # Olá! Eu sou [Arthur Henrique Dantas] 👋
 
-> *Cursando Ensino Médio com Formação Técnica | ETEC.*
+> *Cursando Ensino Médio com Formação Técnica | Clodoveu - ETEC*
 
 ---
 
@@ -10,6 +10,32 @@
 - 💻 Cursando: Front-end, Back-end, Android Studio e Versonamento
 - 🎮 Nas horas vagas: desenvolvendo jogos ou outras coisas envolvendo programação
 - 🌱 Sempre aprendendo algo novo - seja uma tecnologia, um atalho ou um conceito que ainda não dominei
+
+---
+
+## 🔮 Visão Para o Futuro
+
+Quero ser um programador ***"freelancer"*** ou trabalhar em um projeto grande que eu goste, e também acabar 
+ingressando em uma faculdade ou universidade para continuar a formação acadêmica e acabar virando um profissional,
+pretendendo cada vez mais buscar conhecimento. Quero reconhecimento e ajudar outras pessoas a fazer seus próprios
+projetos
+
+---
+
+## 🎨 Interesses
+
+Além de código, tenho um lado criativo que não fica quieto:
+
+| Área | O que eu curto |
+|------|---------------|
+| 🎮 Jogos | Criar mecânicas, design de fases e a lógica por trás do gameplay |
+| 🎵 Música | Compor, experimentar sons e descobrir como a trilha sonora muda tudo |
+| ✏️ Desenho | Personagens, conceitos visuais e esboços aleatórios no caderno |
+| 🎬 Animação | Dar vida a ilustrações - 2D e 3D, frame a frame ou com engine |
+| 🧊 3D & 2D | Modelagem, arte conceitual e assets para jogos e animações |
+| 🧩 Projetos | Ideias que vem na minha mente que coloco em prática |
+
+> *Acredito que a criatividade e a programação caminham juntas - e os meus projetos pessoais são a prova disso.*
 
 ---
 
